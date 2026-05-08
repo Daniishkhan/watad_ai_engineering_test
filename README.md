@@ -1,9 +1,10 @@
 # Watad AI Engineering Test
 
-This repository contains two assessment submissions:
+This repository contains three assessment submissions:
 
 - `Lead Review Gauntlet/` - technical lead review of a proposed internal operations assistant.
 - `RAGOps Sprint/` - runnable deterministic document intake agent for procurement and credit operations.
+- `AgentOps Blueprint/` - architecture package for a production Procurement RFQ Agent.
 
 ## Recommended review path
 
@@ -31,6 +32,18 @@ This repository contains two assessment submissions:
 
    ```text
    RAGOps Sprint/README.md
+   ```
+
+4. Read the AgentOps Blueprint submission:
+
+   ```text
+   AgentOps Blueprint/Danish_Khan_AgentOps_Blueprint_Submission.md
+   ```
+
+   The original add-on assessment materials are under:
+
+   ```text
+   AgentOps Blueprint/docs/
    ```
 
 ## RAGOps quick commands
@@ -64,3 +77,4 @@ python3 -m unittest discover -s tests
 - No paid APIs, secrets, external services, LangGraph, FastAPI, or LLM calls are required to run the core workflow.
 - Original RAGOps prompt/supporting materials are under `RAGOps Sprint/docs/`.
 - The Lead Review folder keeps the original reviewed artifacts in place because the completed review references them directly.
+- The AgentOps Blueprint folder is design-only because that add-on assessment asks for an architecture package, not code.
