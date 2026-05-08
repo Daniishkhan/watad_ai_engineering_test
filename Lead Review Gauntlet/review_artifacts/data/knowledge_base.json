@@ -1,0 +1,32 @@
+[
+  {
+    "id": "kb-001",
+    "category": "procurement",
+    "topic": "rfq",
+    "content": "RFQs must include material type, quantity, delivery location, delivery date, and requester contact before supplier outreach."
+  },
+  {
+    "id": "kb-002",
+    "category": "procurement",
+    "topic": "supplier outreach",
+    "content": "External supplier messages require human approval before sending. Drafts may be prepared automatically, but sending is an approved action."
+  },
+  {
+    "id": "kb-003",
+    "category": "credit",
+    "topic": "credit request",
+    "content": "Credit requests must include applicant identity, requested amount, repayment term, supporting documents, and risk notes."
+  },
+  {
+    "id": "kb-004",
+    "category": "security",
+    "topic": "permissions",
+    "content": "Users may only access documents and actions assigned to their role. Credit data must not be exposed to unauthorized users."
+  },
+  {
+    "id": "kb-005",
+    "category": "operations",
+    "topic": "audit",
+    "content": "Every external action must record requester, approver, timestamp, input reference, output reference, and action result."
+  }
+]

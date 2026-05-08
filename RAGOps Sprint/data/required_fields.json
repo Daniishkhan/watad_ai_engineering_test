@@ -1,0 +1,38 @@
+{
+  "procurement_rfq": {
+    "required": [
+      "company_name",
+      "request_type",
+      "material_or_service",
+      "quantity",
+      "delivery_date",
+      "contact_person",
+      "supporting_document_reference"
+    ],
+    "optional": [
+      "location",
+      "budget_or_target_price",
+      "supplier_preference",
+      "approved_alternate",
+      "urgency"
+    ]
+  },
+  "credit_request": {
+    "required": [
+      "company_name",
+      "request_type",
+      "requested_amount",
+      "repayment_term",
+      "contact_person",
+      "supporting_document_reference"
+    ],
+    "optional": [
+      "revenue_period",
+      "collateral",
+      "purchase_order_reference",
+      "invoice_reference",
+      "bank_statement_reference",
+      "risk_notes"
+    ]
+  }
+}

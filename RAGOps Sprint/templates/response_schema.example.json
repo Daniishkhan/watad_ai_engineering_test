@@ -1,0 +1,28 @@
+{
+  "document_id": "case-001-normal-rfq",
+  "document_type": "procurement_rfq",
+  "extracted_fields": {
+    "company_name": "GulfBuild Contracting LLC",
+    "request_type": "procurement RFQ",
+    "material_or_service": "galvanized steel pipes, ASTM A53, 2 inch diameter, 6m length",
+    "quantity": "500",
+    "delivery_date": "2026-06-15",
+    "requested_amount": null,
+    "repayment_term": null,
+    "contact_person": "Sara Malik",
+    "supporting_document_reference": "RFQ-GB-2026-114.pdf"
+  },
+  "missing_required_fields": [],
+  "retrieved_context": [
+    {
+      "id": "kb-001",
+      "title": "Procurement approval policy",
+      "relevance_reason": "Supplier outreach requires human approval before sending."
+    }
+  ],
+  "proposed_next_action": "Prepare a supplier outreach draft for human review and approval.",
+  "approval_required": true,
+  "risk_level": "low",
+  "risk_explanation": "Required fields are present, but external supplier communication still requires approval.",
+  "safety_flags": ["external_action"]
+}
