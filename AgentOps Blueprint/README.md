@@ -10,6 +10,12 @@ Start with the completed submission:
 Danish_Khan_AgentOps_Blueprint_Submission.md
 ```
 
+PDF copy:
+
+```text
+Danish_Khan_AgentOps_Blueprint_Submission.pdf
+```
+
 The original assessment materials are kept under `docs/`, and the machine-readable sample records are under `data/`.
 
 ## Notes

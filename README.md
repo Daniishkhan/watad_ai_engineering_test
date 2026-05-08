@@ -40,6 +40,12 @@ This repository contains three assessment submissions:
    AgentOps Blueprint/Danish_Khan_AgentOps_Blueprint_Submission.md
    ```
 
+   A PDF copy of the same submission is also included for attachment/review:
+
+   ```text
+   AgentOps Blueprint/Danish_Khan_AgentOps_Blueprint_Submission.pdf
+   ```
+
    The original add-on assessment materials are under:
 
    ```text
