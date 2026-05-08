@@ -1,5 +1,19 @@
 # Lead Review Gauntlet — Candidate Package
 
+## Submission location
+
+The completed review submission is:
+
+```text
+Danish_Khan_Lead_Review_Gauntlet_Submission.md
+```
+
+The original assessment template is:
+
+```text
+SUBMISSION_TEMPLATE.md
+```
+
 ## Your role
 
 You are the technical lead reviewing work from a less senior engineer.

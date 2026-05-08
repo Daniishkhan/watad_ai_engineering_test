@@ -1,7 +1,5 @@
 # RAGOps Sprint - Document Intake Agent
 
-## Candidate: Danish Khan
-
 This is a small deterministic Python intake agent for procurement RFQ and credit request snippets. It extracts key fields, validates missing required information, retrieves supporting local guidance, applies conservative approval/safety rules, and returns structured JSON.
 
 The implementation uses only the Python standard library. It does not require paid APIs, secrets, LangGraph, FastAPI, or an LLM to run the core workflow.

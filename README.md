@@ -1,7 +1,5 @@
 # Watad AI Engineering Test
 
-Candidate: Danish Khan
-
 This repository contains two assessment submissions:
 
 - `Lead Review Gauntlet/` - technical lead review of a proposed internal operations assistant.
@@ -12,7 +10,13 @@ This repository contains two assessment submissions:
 1. Read the completed lead review submission:
 
    ```text
-   Lead Review Gauntlet/LEAD_REVIEW_GAUNTLET_SUBMISSION.md
+   Lead Review Gauntlet/Danish_Khan_Lead_Review_Gauntlet_Submission.md
+   ```
+
+   The original template for this assessment is also included at:
+
+   ```text
+   Lead Review Gauntlet/SUBMISSION_TEMPLATE.md
    ```
 
 2. Run the RAGOps Sprint implementation:
